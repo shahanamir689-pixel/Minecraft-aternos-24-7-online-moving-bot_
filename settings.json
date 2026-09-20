@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Shahanbot+",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Bild_Craft.aternos.me",
-    "port": 31689,
-    "version": "1.20.1",
+    "ip": "shahan666.aternos.me",
+    "port": 20555,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
